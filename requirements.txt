@@ -1,0 +1,10 @@
+django
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+pillow
+algoliasearch_django
+djangorestframework_simplejwt
+django-phonenumber-field[phonenumbers]
+
